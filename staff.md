@@ -16,6 +16,7 @@ Meet our wonderful staff!
 |<img width="1200" alt="jerry_yu" src="images/jerry_yu.jpg">  <a href="mailto:jiy066@ucsd.edu">Jerry Yu</a> |  <img width="1200" alt="rasika_bhave" src="images/rasika_bhave.png"> <a href="mailto:rbhave@ucsd.edu">Rasika Bhave</a>|
 
 ### Our amazing tutors!
+
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | <img width="1200" alt="vardhan_agarwal" src="images/vardhan_agarwal.jpg">  <a href="mailto:v7agarwa@ucsd.edu">Vardhan Agarwal</a> | <img width="1200" alt="nitya_agarwal" src="images/nitya_agarwal.jpg">  <a href="mailto:n3agarwa@ucsd.edu">Nitya Agarwal</a> | <img width="1200" alt="aman_aggarwal" src="images/aman_aggarwal.JPG">  <a href="mailto:akaggarw@ucsd.edu">Aman Aggarwal</a> | <img width="1200" alt="vardhan_agarwal" src="images/adrian_botvinik.jpg">  <a href="mailto:abotvini@ucsd.edu">Adrian Botvinik</a> | 
