@@ -13,7 +13,7 @@ Meet our wonderful staff!
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1200" alt="jerry_yu" src="images/jerry_yu.jpg">  <a href="mailto:jiy066@ucsd.edu">Jerry Yu</a> |  <img width="1200" alt="rasika_bhave" src="images/rasika_bhave.png"> <a href="mailto:rbhave@ucsd.edu">Rasika Bhave</a>|
+|<img width="120" alt="jerry_yu" src="images/jerry_yu.jpg">  <a href="mailto:jiy066@ucsd.edu">Jerry Yu</a> |  <img width="120" alt="rasika_bhave" src="images/rasika_bhave.png"> <a href="mailto:rbhave@ucsd.edu">Rasika Bhave</a>|
 
 ### Our amazing tutors!
 
