@@ -7,6 +7,8 @@ title: "Schedule - UCSD CSE30"
 
 ## Intro to Computer Systems
 
+**Welcome to CSE 30!** We are so _excited_ to have you in our course! :) 
+
 [_Professor Gerald Soosairaj_](https://geraldsoosairaj.github.io/)
 
 **Instructor Office Hours:**
@@ -15,7 +17,6 @@ When: **Wednesday 3 - 4pm** and **Thursday 3 - 4pm** (or by appointments)
 
 Where: **CSE 2106** (Gerald’s Office)
 
-Welcome to CSE 30! We are so excited to have you in our course! :) 
 
 ### Schedule
 
