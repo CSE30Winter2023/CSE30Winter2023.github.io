@@ -5,11 +5,11 @@ title: "Schedule - UCSD CSE30"
 
 # UCSD CSE 30 Winter 2023
 
-## Computer Organization and Systems Programming
+## Intro to Computer Systems
 
-_Professor Gerald Soosai Raj_
+_Professor Gerald Soosairaj_
 
-Welcome to CSE 30!
+Welcome to CSE 30! We are so excited to have you in our course! :) 
 
 ### Schedule
 
