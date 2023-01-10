@@ -9,8 +9,10 @@ title: "Schedule - UCSD CSE30"
 
 [_Professor Gerald Soosairaj_](https://geraldsoosairaj.github.io/)
 
-Instructor Office Hours:
+**Instructor Office Hours:**
+
 When: **Wednesday 3 - 4pm** and **Thursday 3 - 4pm** (or by appointments)
+
 Where: **CSE 2106** (Gerald’s Office)
 
 Welcome to CSE 30! We are so excited to have you in our course! :) 
