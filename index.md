@@ -15,7 +15,7 @@ title: "Schedule - UCSD CSE30"
 
 When: **Wednesday 3 - 4pm** and **Thursday 3 - 4pm** (or by appointments)
 
-Where: **CSE 2106** (Gerald’s Office)
+Where: **CSE 2231** s
 
 
 ### Schedule
